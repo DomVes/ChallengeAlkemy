@@ -557,3 +557,12 @@ D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\refs\WindowsBase.dll
 D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Azure.Core.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\MailKit.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\MimeKit.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DOCUMENTOS\Alkemy\ChallengeAlkemy\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
